@@ -8,9 +8,9 @@ from requests.structures import CaseInsensitiveDict
 
 limit = 2
 
-AWS_ACCESS_KEY_ID = "AKIAQAWRFUIND2BOTDV7"
-AWS_SECRET_ACCESS_KEY = "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"
-AWS_PUBLIC_BUCKET_NAME = "sharedoffices"
+AWS_ACCESS_KEY_ID = ""
+AWS_SECRET_ACCESS_KEY = ""
+AWS_PUBLIC_BUCKET_NAME = ""
 aws_upload = True
 
 
