@@ -10,21 +10,21 @@
                 "area_name": "Causeway Bay",
                 "utilities_text": "Conference Rooms, Furnitured, Micro-roasted Coffee, Nursery Room, Onsite Staff, 24 hours access",
                 "images": [
-                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/prjfszudxcaezzpdcpkt.webp",
-                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/mswzzxuordaizzdkhnbh.webp",
-                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/tlzwiblsoscieerssbal.webp",
-                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/oxpjhgtnyabzeioemmuh.webp",
-                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/ityykaicevtizqgnhadp.webp",
-                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/nefkrdzpnpamyxfijgfp.webp",
-                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/lgrturjmybybezicqljz.webp",
-                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/ooubcdxtcrtwomyyacyo.webp",
-                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/hkfpcuxwpykdjkdtumua.webp",
-                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/zvjjyszyklzwbiolkcpi.webp",
-                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/zminwkzohffwxlebmrec.webp",
-                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/ptxgyifiicrypxafyjbp.webp",
-                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/dzazoywnlduoytlgzmdh.webp",
-                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/pfoxgkyfeiohooamrsrj.webp",
-                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/fxcwutyxedehvenpzpmn.webp"
+                    "https://asset.leasinghub.com/images/centers/250/lq_Win Large_1.webp",
+                    "https://asset.leasinghub.com/images/centers/250/lq_RiR 32pax_48-101_1.webp",
+                    "https://asset.leasinghub.com/images/centers/250/lq_RiR 32pax_48-101_2.webp",
+                    "https://asset.leasinghub.com/images/centers/250/lq_Int 4pax_rm48-109.webp",
+                    "https://asset.leasinghub.com/images/centers/250/lq_Int 4pax_rm47-115_2.webp",
+                    "https://asset.leasinghub.com/images/centers/250/lq_Int 4pax_rm47-115.webp",
+                    "https://asset.leasinghub.com/images/centers/250/lq_co-work_1.webp",
+                    "https://asset.leasinghub.com/images/centers/250/lq_Event Space.webp",
+                    "https://asset.leasinghub.com/images/centers/250/lq_boardroom_12pax.webp",
+                    "https://asset.leasinghub.com/images/centers/250/lq_pantry_1.webp",
+                    "https://asset.leasinghub.com/images/centers/250/lq_lounge_1.webp",
+                    "https://asset.leasinghub.com/images/centers/250/lq_lounge_2.webp",
+                    "https://asset.leasinghub.com/images/centers/250/lq_lounge_3.webp",
+                    "https://asset.leasinghub.com/images/centers/250/lq_lounge_4.webp",
+                    "https://asset.leasinghub.com/images/centers/250/lq_reception_1.webp"
                 ],
                 "area": "65660",
                 "capacity": "820",
@@ -35,7 +35,25 @@
                 "wnd_suite_rate1": null,
                 "wnd_suite_rate2": null,
                 "float_rate_full": "3800.00",
-                "fixed_rate_full": "6200.00"
+                "float_rate_half": null,
+                "fixed_rate_full": "6200.00",
+                "fixed_rate_half": null,
+                "fixed_rate_full_day_access": "1",
+                "floor_pos": "3",
+                "full_day_access": "1",
+                "full_day_aircon": "0",
+                "float_rate_full_day_access": "1",
+                "virtual_rate1": null,
+                "virtual_rate2": null,
+                "intlwnd_rate_from": "3800.00",
+                "intlwnd_rate_to": "10000.00",
+                "gross_area": "65660",
+                "net_area": "0",
+                "suite_counts": {
+                    "suites": 10,
+                    "rooms": 2,
+                    "virtual": 0
+                }
             }
         ],
         "meeting_rooms": [
@@ -58,7 +76,7 @@
                 "full_day_rate": null,
                 "remark": null,
                 "images": [
-                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/qmsnktjwjpjfijfpwbta.webp"
+                    "https://asset.leasinghub.com/images/centerrooms/507/lq_Boardroom_12pax.webp"
                 ]
             }
         ],
@@ -71,7 +89,7 @@
                 "monthly_rental_1": 102600,
                 "monthly_rental_2": 210000,
                 "images": [
-                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/ltwjmviotggzmvjkxgtx.webp"
+                    "https://asset.leasinghub.com/images/centersuites/8724/lq_Win Large_1.webp"
                 ]
             },
             {
@@ -118,9 +136,9 @@
                 "monthly_rental_1": 20400,
                 "monthly_rental_2": 55000,
                 "images": [
-                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/jrniswixddcjiqtohmdb.webp",
-                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/lzblrzgjlavhnfxyhker.webp",
-                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/kxoxfliewcrntnsoyqzd.webp"
+                    "https://asset.leasinghub.com/images/centersuites/8719/lq_Int 4pax_rm48-109.webp",
+                    "https://asset.leasinghub.com/images/centersuites/8719/lq_Int 4pax_rm47-115_2.webp",
+                    "https://asset.leasinghub.com/images/centersuites/8719/lq_Int 4pax_rm47-115.webp"
                 ]
             },
             {
@@ -149,8 +167,8 @@
                 "monthly_rental_1": 128000,
                 "monthly_rental_2": 217535,
                 "images": [
-                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/hpwtowlxneqteblpcsqw.webp",
-                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/zbxuqryrkrfhtpsrqrak.webp"
+                    "https://asset.leasinghub.com/images/centersuites/8716/lq_RiR 32pax_48-101_1.webp",
+                    "https://asset.leasinghub.com/images/centersuites/8716/lq_RiR 32pax_48-101_2.webp"
                 ]
             },
             {
@@ -165,7 +183,6 @@
         ],
         "building_info": [
             {
-                "building_type_text": "Office",
                 "age": "26",
                 "grade": "A++",
                 "last_updated": "2023-09-13 07:51:34",
@@ -196,6 +213,8 @@
                     "service": 0,
                     "passenger": 22
                 },
+                "typfloor_area_text": "14,661 - 16,793",
+                "specs_text": "BEAM: Plus EB V1.2 - Final Platinum, HK Top 10 Highest Commercial Building: 10-240m, Commercial Podium",
                 "ac_systems": {
                     "ac_type": "2",
                     "ac_weekday_open": "08:00",
@@ -219,28 +238,42 @@
                     }
                 ],
                 "floor_plan": [
-                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/bixutfferbmhqqotzhux.webp",
-                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/artedotxvkznxjmtarws.webp",
-                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/xlnhcebyaiqcgwkvvbba.webp",
-                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/fmogkyvomqvknrdisizy.webp"
+                    "https://asset.leasinghub.com/images/centers/250/floorplans/lq_floorplan_45f.webp",
+                    "https://asset.leasinghub.com/images/centers/250/floorplans/lq_floorplan_46f.webp",
+                    "https://asset.leasinghub.com/images/centers/250/floorplans/lq_floorplan_47f.webp",
+                    "https://asset.leasinghub.com/images/centers/250/floorplans/lq_Floorplan_48F.webp"
                 ],
                 "images": [
-                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/txrntpjhrzggvjqystuv.webp",
-                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/mxzqcbojfuegbzcbyqyi.webp",
-                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/ebuinlmwwyzezyfcadni.webp",
-                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/ugwzvxgofstitdoozquk.webp",
-                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/xsmtgmnzopzlcnsqqaqh.webp",
-                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/gjjzgomubawimwdnpouv.webp",
-                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/trhbadqbyvwmfupcnmfa.webp",
-                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/mksnvnqidhboohnwjnft.webp",
-                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/kahfrfuojrijwogalyms.webp",
-                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/lpfytfikysedmexlsvfi.webp",
-                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/vdqjponxsxfsfgjxucwy.webp",
-                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/jpytqxaeckaujhoxihxm.webp",
-                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/spcdecgklmtvcxvgswym.webp",
-                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/ikhphvwrccgsgfdxbdqk.webp",
-                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/sivlpeaznxpuwykdxtlw.webp"
-                ]
+                    "https://asset.leasinghub.com/images/buildings/6342/lq_IMG_2700.webp",
+                    "https://asset.leasinghub.com/images/buildings/6342/lq_IMG_1488.webp",
+                    "https://asset.leasinghub.com/images/buildings/6342/lq_IMG_1493.webp",
+                    "https://asset.leasinghub.com/images/buildings/6342/lq_IMG_1511.webp",
+                    "https://asset.leasinghub.com/images/buildings/6342/lq_Building_6.webp",
+                    "https://asset.leasinghub.com/images/buildings/6342/lq_IMG_2822.webp",
+                    "https://asset.leasinghub.com/images/buildings/6342/lq_IMG_8072.webp",
+                    "https://asset.leasinghub.com/images/buildings/6342/lq_IMG_2826.webp",
+                    "https://asset.leasinghub.com/images/buildings/6342/lq_IMG_2825.webp",
+                    "https://asset.leasinghub.com/images/buildings/6342/lq_IMG_2827.webp",
+                    "https://asset.leasinghub.com/images/buildings/6342/lq_IMG_2830.webp",
+                    "https://asset.leasinghub.com/images/buildings/6342/lq_IMG_7922.HEIC.webp",
+                    "https://asset.leasinghub.com/images/buildings/6342/lq_IMG_8043.webp",
+                    "https://asset.leasinghub.com/images/buildings/6342/lq_IMG_8052.webp",
+                    "https://asset.leasinghub.com/images/buildings/6342/lq_IMG_2823.webp"
+                ],
+                "building_type_text": "Office",
+                "map_params": {
+                    "center": {
+                        "map_lat": "22.27821600900000",
+                        "map_lng": "114.18479600600000"
+                    },
+                    "map_zoom": "18",
+                    "makers": {
+                        "position": {
+                            "map_marker_position_lat": "22.27821600900000",
+                            "map_marker_position_lng": "114.18479600600000"
+                        }
+                    }
+                }
             }
         ]
     }

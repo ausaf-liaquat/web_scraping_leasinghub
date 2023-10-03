@@ -11,7 +11,7 @@ limit = 1
 AWS_ACCESS_KEY_ID = ""
 AWS_SECRET_ACCESS_KEY = ""
 AWS_PUBLIC_BUCKET_NAME = ""
-aws_upload = True
+aws_upload = False
 
 
 def send_post_request(url, dynamic_value):
@@ -208,10 +208,52 @@ def loadLeasinghub():
                             "float_rate_full": response_data.get("data", {}).get(
                                 "float_rate_full", ""
                             ),
+                            "float_rate_half": response_data.get("data", {}).get(
+                                "float_rate_half", ""
+                            ),
                             "fixed_rate_full": response_data.get("data", {}).get(
                                 "fixed_rate_full", ""
                             ),
-
+                            "fixed_rate_half": response_data.get("data", {}).get(
+                                "fixed_rate_half", ""
+                            ),
+                             "fixed_rate_full_day_access": response_data.get("data", {}).get(
+                                "fixed_rate_full_day_access", ""
+                            ),
+                            "floor_pos": response_data.get("data", {}).get(
+                                "floor_pos", ""
+                            ),
+                             "full_day_access": response_data.get("data", {}).get(
+                                "full_day_access", ""
+                            ),
+                             "full_day_aircon": response_data.get("data", {}).get(
+                                "full_day_aircon", ""
+                            ),
+                             "float_rate_full_day_access": response_data.get("data", {}).get(
+                                "float_rate_full_day_access", ""
+                            ),
+                             "virtual_rate1": response_data.get("data", {}).get(
+                                "virtual_rate1", ""
+                            ),
+                             "virtual_rate2": response_data.get("data", {}).get(
+                                "virtual_rate2", ""
+                            ),
+                            "intlwnd_rate_from": response_data.get("data", {}).get(
+                                "intlwnd_rate_from", ""
+                            ),
+                             "intlwnd_rate_to": response_data.get("data", {}).get(
+                                "intlwnd_rate_to", ""
+                            ),
+                            "gross_area": response_data.get("data", {}).get(
+                                "gross_area", ""
+                            ),
+                            "net_area": response_data.get("data", {}).get(
+                                "net_area", ""
+                            ),
+                            "suite_counts": response_data.get("data", {}).get(
+                                "suite_counts", ""
+                            ),
+                          
                         }
                     ],
                 }
@@ -262,7 +304,7 @@ def loadLeasinghub():
                     ]
                 building_info.append(
                     {
-                        "building_type_text": building_info_get.get("building_type_text", ""),
+                    
                         "age": building_info_get.get("age", ""),
                         "grade": building_info_get.get("grade", ""),
                         "last_updated": building_info_get.get("last_updated", ""),
@@ -274,13 +316,28 @@ def loadLeasinghub():
                         "comment_auto": building_info_get.get("comment_auto", ""),
                         "floor_system_text": building_info_get.get("floor_system_text", ""),
                         "lifts": building_info_get.get("lifts", ""),
+                        "typfloor_area_text": building_info_get.get("typfloor_area_text", ""),
+                        "specs_text": building_info_get.get("specs_text", ""),
                         "ac_systems": building_info_get.get("ac_systems", ""),
                         "ac_type_text": building_info_get.get("ac_type_text", ""),
                         "ceil_false": building_info_get.get("ceil_false", ""),
                         "mtrs_nearby": building_info_get.get("mtrs_nearby", ""),
                         "floor_plan": floor_plan_lq_urls,
                         "images": building_lq_urls,
-                       
+                        "building_type_text": building_info_get.get("building_type_text", ""),
+                        "map_params":{
+                            "center":{
+                                "map_lat":building_info_get.get("map_params", {}).get("center", {}).get("lat", ""),
+                                "map_lng":building_info_get.get("map_params", {}).get("center", {}).get("lng", "")
+                            },
+                            "map_zoom":building_info_get.get("map_params", {}).get("zoom", ""),
+                            "makers":{
+                                "position":{
+                                    "map_marker_position_lat": building_info_get.get("map_params", {}).get("markers", [])[0].get("position", {}).get("lat", ""),
+                                    "map_marker_position_lng": building_info_get.get("map_params", {}).get("markers", [])[0].get("position", {}).get("lng", ""),
+                                }
+                            }
+                        }
                     }
                 )
 
