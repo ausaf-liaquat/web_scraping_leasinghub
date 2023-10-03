@@ -1,502 +1,245 @@
 [
     {
-        "building_name": "Universal Building 環球大廈",
+        "building_name": "Lee Garden One 利園一期",
         "detail": [
             {
-                "description": "Located on a peaceful street just off the bustling Hollywood Road, this Business Centre offers a tranquil and productive environment close to Central Hong Kong. The workspace is thoughtfully designed with beautiful features, including standing desks in lounge areas and private offices, to help you stay focused and motivated. When you need a break, you can visit the onsite barista for a coffee or enjoy the stunning views from the terrace. Sai Ying Pun Station MTR is conveniently located a short walk away, making commuting a breeze. For some moments of relaxation after work, you can visit Man Mo Temple or explore the numerous dining options available at Western Market. Take advantage of this opportunity to position yourself at the forefront of Hong Kong's business sector by choosing Universal Building as your workspace.",
+                "description": "This Business Centre situated in Causeway Bay is the beginning of your new journey and is surrounded by top-notch retail and dining destinations. The modern high-rise building has allocated four floors to this provider, which includes stunning lounges, well-equipped conference rooms, and stylish private offices. Transportation is easy with Causeway Bay Station's metro and several nearby bus stops. This workspace at Lee Garden One will make a significant mark in the city's skyline and help you to flourish and succeed.",
                 "operator_desc_locale": "WeWork is a global network of workspaces where companies grow together. At this convenient address, discover floors of co-working and private offices that cater to needs you didn't even know you had. Our spaces are designed to promote productivity whether you're a team of one or 100, and month-to-month flexibility means your space is just as agile as you are. Plus, one all-inclusive rate makes things easy. Any workspace can have a lounge, but ours are decorated with custom murals. Your old office might have had a coffee pot, but ours has a micro-roasted coffee bar and fresh fruit water. We've considered every detail so you can focus on your business. Beyond desks, staff and amenities, find a community of forward-thinking companies and in-house events that connect you organically. For more information, please email us at <a href=\"mailto:enquiryww@wework.hk\">enquiryww@wework.hk</a>",
                 "name_locale": "WeWork",
-                "street_name": "5-13 New Street",
-                "area_name": "Sheung Wan",
-                "utilities_text": "Conference Rooms, Furnitured, Micro-roasted Coffee, Nursery Room, Onsite Staff, Outdoor Space, 24 hours access, 24 hours air-condition",
+                "street_name": "33 Hysan Avenue",
+                "area_name": "Causeway Bay",
+                "utilities_text": "Conference Rooms, Furnitured, Micro-roasted Coffee, Nursery Room, Onsite Staff, 24 hours access",
                 "images": [
-                    "jcgslreggqaycduatmvs.webp",
-                    "zeqfcelqqrskzkfhkmhk.webp",
-                    "ieamoypdodcvgqbprbwz.webp",
-                    "kbcenasmsjxupywotnne.webp",
-                    "pympxxphdfjststwtsud.webp",
-                    "vhridtyqmyonipznipbt.webp",
-                    "bsvoynllvtdgennyafhv.webp",
-                    "tcrdxxutrusvczgtgrfa.webp",
-                    "xsvckzbnrmomwtqsnydp.webp",
-                    "fivfygiemgkowtojhuid.webp",
-                    "lfcyljsfujqmkbtfvwph.webp",
-                    "opfpfimpdxrjuqgeitav.webp",
-                    "cpamoeawbkjuvyykuseh.webp",
-                    "ewhxbolmvqhwcvlddgjc.webp",
-                    "iildqaxignagiasscjpy.webp",
-                    "yxfdcxrrynnbqzrhpzcn.webp",
-                    "qzonqhwgelclowxjkkea.webp",
-                    "oxjfkfqqfzpukfjkxfju.webp",
-                    "kdecfommdapzpnudfvbb.webp",
-                    "wktcembyqidzjpfxxnnf.webp",
-                    "zmcvvmaovkvbygqjoyju.webp",
-                    "laovoequehjjaanediah.webp"
-                ]
+                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/prjfszudxcaezzpdcpkt.webp",
+                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/mswzzxuordaizzdkhnbh.webp",
+                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/tlzwiblsoscieerssbal.webp",
+                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/oxpjhgtnyabzeioemmuh.webp",
+                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/ityykaicevtizqgnhadp.webp",
+                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/nefkrdzpnpamyxfijgfp.webp",
+                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/lgrturjmybybezicqljz.webp",
+                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/ooubcdxtcrtwomyyacyo.webp",
+                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/hkfpcuxwpykdjkdtumua.webp",
+                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/zvjjyszyklzwbiolkcpi.webp",
+                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/zminwkzohffwxlebmrec.webp",
+                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/ptxgyifiicrypxafyjbp.webp",
+                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/dzazoywnlduoytlgzmdh.webp",
+                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/pfoxgkyfeiohooamrsrj.webp",
+                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/fxcwutyxedehvenpzpmn.webp"
+                ],
+                "area": "65660",
+                "capacity": "820",
+                "branch_counts": 6,
+                "name": "WeWork",
+                "intl_suite_min": "3800.00",
+                "intl_suite_max": "10000.00",
+                "wnd_suite_rate1": null,
+                "wnd_suite_rate2": null,
+                "float_rate_full": "3800.00",
+                "fixed_rate_full": "6200.00"
             }
         ],
         "meeting_rooms": [
             {
                 "type_text": "Meeting Rm",
-                "seat_count": 10,
+                "seat_count": 4,
+                "area": null,
+                "viewing_text": "No Window",
+                "hourly_rate": null,
+                "full_day_rate": null,
+                "remark": null,
+                "images": []
+            },
+            {
+                "type_text": "Boardroom",
+                "seat_count": 12,
                 "area": null,
                 "viewing_text": "City View",
                 "hourly_rate": null,
                 "full_day_rate": null,
                 "remark": null,
                 "images": [
-                    "yjgvjmzvgbvvnllxxczo.webp",
-                    "suudnoeqakndwjlenisr.webp",
-                    "cqxwatrojojgqhsifwqe.webp"
+                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/qmsnktjwjpjfijfpwbta.webp"
                 ]
             }
         ],
         "service_rooms": [
             {
                 "type_text": "Standard Room (Win)",
-                "desks": "5-6",
-                "area_range": "187-280",
+                "desks": "17-21",
+                "area_range": "700-710",
                 "viewing_text": "City View",
-                "monthly_rental_1": 23334,
-                "monthly_rental_2": 42000,
+                "monthly_rental_1": 102600,
+                "monthly_rental_2": 210000,
                 "images": [
-                    "fpbfftnuvxifmvqpikrk.webp"
+                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/ltwjmviotggzmvjkxgtx.webp"
                 ]
             },
             {
                 "type_text": "Standard Room (Win)",
-                "desks": "3-4",
-                "area_range": "100-187",
+                "desks": "13-16",
+                "area_range": "500-682",
                 "viewing_text": "City View",
-                "monthly_rental_1": 18752,
-                "monthly_rental_2": 28000,
-                "images": [
-                    "kovqtjtmypqrrcunobue.webp",
-                    "yqqobhtglhjblshegivi.webp",
-                    "xtauuiovtvvdsuldohtf.webp",
-                    "nabzzvhcaqmdxexsifgr.webp"
-                ]
-            },
-            {
-                "type_text": "Standard Room (Win)",
-                "desks": 2,
-                "area_range": 80,
-                "viewing_text": "City View",
-                "monthly_rental_1": 11667,
-                "monthly_rental_2": 14000,
-                "images": []
-            }
-        ],
-        "co_working_space_info": [
-            {
-                "area": "12797",
-                "capacity": "159",
-                "branch_counts": 6,
-                "name": "WeWork",
-                "intl_suite_rate1": "2800.00",
-                "intl_suite_rate2": "4000.00",
-                "wnd_suite_rate1": "3000.00",
-                "wnd_suite_rate2": "4500.00",
-                "float_rate_full": "2000.00",
-                "fixed_rate_full": "4000.00"
-            }
-        ],
-        "building_info": [
-            {
-                "building_type_text": "Retail Shop",
-                "age": "0",
-                "grade": "A",
-                "last_updated": "2023-09-28 09:27:04",
-                "building_ownership": "Stratified",
-                "has_carparking": false,
-                "carparking": {
-                    "has_monthly": 0,
-                    "monthly_float_fee": "",
-                    "monthly_fixed_fee": "",
-                    "has_hourly": 0,
-                    "hourly_fee": "",
-                    "has_daily": 0,
-                    "daily_fee": "",
-                    "is_public": "0",
-                    "has_ev_charging": "0",
-                    "ev_charging_no": "0",
-                    "has_dropoff": "0",
-                    "has_loading": "0",
-                    "has_car_lift": "0",
-                    "mgt_co": ""
-                },
-                "year": null,
-                "highest_floor": "",
-                "comment_auto": null,
-                "floor_system_text": null,
-                "lifts": {
-                    "cargo": 0,
-                    "service": 0,
-                    "passenger": 0
-                },
-                "ac_systems": {
-                    "ac_type": null,
-                    "ac_weekday_open": null,
-                    "ac_weekday_close": null,
-                    "ac_sat_open": null,
-                    "ac_sat_close": null,
-                    "ac_sun_open": null,
-                    "ac_sun_close": null,
-                    "ac_extra": null,
-                    "ac_server": null,
-                    "ac_server_fee": null
-                },
-                "ac_type_text": null,
-                "ceil_false": null,
-                "mtrs_nearby": [],
-                "floor_plan": [],
-                "images": [
-                    "ziikgqkchfmoaklrpuby.webp",
-                    "jkmeijawwkyxrtzgkalz.webp",
-                    "ilsyzxdfhgscfuslonaf.webp"
-                ]
-            }
-        ]
-    },
-    {
-        "building_name": "Silvercord Tower 2 新港中心第二座",
-        "detail": [
-            {
-                "description": "Occupying 3 floors at Silvercord Tower 2 overlooks the Kowloon Park next door, this business centre provides a highly efficient working environment with an abundance of natural light, accessible 24 hours a day with spaces range in size from one workstation, up to more than 50 workstations. Given the comprehensive support by I.T. professionals and client service executives, it provides a cost effective platform to help run any business.",
-                "operator_desc_locale": "Began in 2009, Compass Offices was built around the vision aims to help clients to grow their businesses and provide an environment can be considered a great place to work. Their story begins with frustration clients felt when found a few other operators who hid their pricing and provided inconsistent service. Since then, over 40 centres located in 9 cities serving over 20,000 customers. Clientele includes growing start-ups, entrepreneurs, independent professionals, MNCs and enterprise teams.\r\nBesides workspaces Compass dedicated to provide, here comes professional services as well which enable clients to focus on their own business. Combines affordability, scalability, technology and choice; all within a portfolio of flexible workspaces designed to meet today's new ways of working. For more information, please email us at~\r\nHong Kong: <a href=\"mailto:hkoaenquiry@compassoffices.com\">hkoaenquiry@compassoffices.com</a>\r\nSingapore: <a href=\"mailto:sgoaenquiry@compassoffices.com\">sgoaenquiry@compassoffices.com</a>\r\nAustralia: <a href=\"mailto:auoaenquiry@compassoffices.com\">auoaenquiry@compassoffices.com</a>\r\nJapan: <a href=\"mailto:jpoaenquiry@compassoffices.com\">jpoaenquiry@compassoffices.com</a>\r\nChina: <a href=\"mailto:cnoaenquiry@compassoffices.com\">cnoaenquiry@compassoffices.com</a>\r\nVietnam: <a href=\"mailto:vnoaenquiry@compassoffices.com\">vnoaenquiry@compassoffices.com</a>\r\nPhilippines: <a href=\"mailto:mktoaenquiry@compassoffices.com\">mktoaenquiry@compassoffices.com</a>",
-                "name_locale": "Compass Offices",
-                "street_name": "30 Canton Road",
-                "area_name": "Tsimshatsui",
-                "utilities_text": "Conference Rooms, Furnitured, Micro-roasted Coffee, Onsite Staff, Server Rental, 24 hours access",
-                "images": [
-                    "xhoviiypsoebadnbbfyp.webp",
-                    "mxsvjedsqhzqbddsrqeu.webp",
-                    "ltdltzqluyuvzvputnbv.webp",
-                    "pqhtgbmrvtzgrfwauaiu.webp",
-                    "lffthzooilwqltdpnrcr.webp",
-                    "ibpvozrmqtoertslwtnt.webp",
-                    "otnzpytmszpnwofofkkm.webp",
-                    "ttpxmlzuhkqbikijxgeg.webp",
-                    "szomsdcnjwvrggfuswbk.webp",
-                    "imnlsqymdxkistzqxkab.webp",
-                    "aebkimnvvcnihgoweutb.webp",
-                    "lsrgrqwydnyyiacxvgiz.webp",
-                    "kzqsgzxfidsjlqbpjqum.webp",
-                    "yeqlsjqcjlolvcckuwgo.webp",
-                    "xbnakaraacdfsrmsbsix.webp",
-                    "vgeprbcfyleipkdvtsqe.webp",
-                    "udeabdurstugzygnhsyx.webp",
-                    "nrxiqstfbrnicysndfju.webp",
-                    "oonsoadedpkdfljuuxsv.webp",
-                    "tispeakfkocryyonfrtt.webp",
-                    "drmeeztknencrsqrcblr.webp",
-                    "rxmhjsyptwrofaqkbdwh.webp",
-                    "boknvwyqmnahdcnamyws.webp",
-                    "bmjwquleoqmmsisspgki.webp",
-                    "mjcdistzmcabmpefmkyk.webp",
-                    "pehosvrbyvsydswtkfit.webp",
-                    "sjzshlqamidbmqryrftv.webp",
-                    "vlqnmuslkukgcjpzuico.webp",
-                    "smkqzkjdlvqxiavbtxcc.webp",
-                    "eihkeajkveuwhhupffbq.webp",
-                    "xmrgqoljatbwmzuyeqdp.webp",
-                    "jjecfhybqauxlajninlk.webp",
-                    "jvsmxxqxxvxjaqvosqly.webp",
-                    "xbzmkfutqoynalbunlba.webp",
-                    "qloqrsgpszzrptqpikkf.webp",
-                    "gnxdwfksfjrrwgsqyqee.webp",
-                    "yktyziuuisujaayotrjb.webp",
-                    "cotopmmuustoqqglbyxv.webp",
-                    "ndkkftrzloywbimvpbcs.webp",
-                    "ilyexmjbzhkyffatrzmw.webp",
-                    "nopiggnyipikmesimfva.webp",
-                    "cjajnioifzjhktkntkie.webp",
-                    "lhriklpmodmqigixasdh.webp",
-                    "jntiyddxnhjthavffqkv.webp",
-                    "bicgumlsifhbczwqhctu.webp",
-                    "wxlninuwdbajypbblzfm.webp"
-                ]
-            }
-        ],
-        "meeting_rooms": [
-            {
-                "type_text": "Meeting Rm",
-                "seat_count": 8,
-                "area": null,
-                "viewing_text": "No Window",
-                "hourly_rate": 570,
-                "full_day_rate": 3420,
-                "remark": null,
-                "images": [
-                    "spkcvthtbfrnsrmgunmp.webp"
-                ]
-            },
-            {
-                "type_text": "Meeting Rm",
-                "seat_count": 4,
-                "area": null,
-                "viewing_text": "No Window",
-                "hourly_rate": 390,
-                "full_day_rate": 2340,
-                "remark": null,
-                "images": [
-                    "ktvujduezgexpjpxwcpy.webp"
-                ]
-            },
-            {
-                "type_text": "Boardroom",
-                "seat_count": 12,
-                "area": null,
-                "viewing_text": "No Window",
-                "hourly_rate": 910,
-                "full_day_rate": 5460,
-                "remark": null,
-                "images": [
-                    "ercfmshiejljxhcycnrn.webp",
-                    "afqdrmcdtszgicsbkoqn.webp",
-                    "sghilucidamodiqzuxnv.webp"
-                ]
-            }
-        ],
-        "service_rooms": [
-            {
-                "type_text": "Standard Room (Win)",
-                "desks": "5-7",
-                "area_range": "200-333",
-                "viewing_text": "City View",
-                "monthly_rental_1": 27000,
-                "monthly_rental_2": 47000,
-                "images": [
-                    "zzfnuqzdnkrnugqsuxau.webp"
-                ]
-            },
-            {
-                "type_text": "Standard Room (Win)",
-                "desks": "5-8",
-                "area_range": "280-319",
-                "viewing_text": "Garden View",
-                "monthly_rental_1": 40000,
-                "monthly_rental_2": 43000,
-                "images": [
-                    "kpurlgnvhlexpcjdhdxb.webp",
-                    "ozscqiocyirnejsoakuh.webp",
-                    "gxrhpoeyyqwuvvvhhitu.webp",
-                    "gbtwhxumdhnzqoozccut.webp",
-                    "jjdpoedliayoqztwwnnq.webp",
-                    "cjfxtlzxaqxxashpghla.webp",
-                    "fvutynukrgwwciudyyve.webp"
-                ]
-            },
-            {
-                "type_text": "Standard Room (Win)",
-                "desks": "2-4",
-                "area_range": "130-240",
-                "viewing_text": "Garden View",
-                "monthly_rental_1": 13000,
-                "monthly_rental_2": 32000,
-                "images": [
-                    "tosqxkmergbusrusreol.webp",
-                    "akdlcsotcjgtsxwakjyn.webp",
-                    "jvpcxnutygngmxluefgq.webp"
-                ]
-            },
-            {
-                "type_text": "Standard Room (Win)",
-                "desks": "2-4",
-                "area_range": "90-235",
-                "viewing_text": "City View",
-                "monthly_rental_1": 13900,
-                "monthly_rental_2": 33000,
-                "images": [
-                    "oawzusgyjnioiypbqrjf.webp"
-                ]
-            },
-            {
-                "type_text": "Standard Room (Int)",
-                "desks": "3-5",
-                "area_range": "121-220",
-                "viewing_text": "No Window",
-                "monthly_rental_1": 13000,
-                "monthly_rental_2": 23000,
-                "images": [
-                    "ibsjrpbpvptjybdqidfs.webp",
-                    "ttiviiorjxkjwdtjxqut.webp",
-                    "nqhkhtcshruorkvpxhon.webp",
-                    "lhpstlcmvynxckzcgtqx.webp"
-                ]
-            },
-            {
-                "type_text": "Standard Room (Int)",
-                "desks": "1-2",
-                "area_range": "46-120",
-                "viewing_text": "No Window",
-                "monthly_rental_1": 5200,
-                "monthly_rental_2": 13000,
-                "images": [
-                    "rofhmnvhklsaaszxhojw.webp",
-                    "zovqoswpuinttwudfgak.webp"
-                ]
-            },
-            {
-                "type_text": "Room in Room (Win)",
-                "desks": "60-69",
-                "area_range": 2080,
-                "viewing_text": "City View",
-                "monthly_rental_1": 250000,
-                "monthly_rental_2": 280000,
-                "images": []
-            },
-            {
-                "type_text": "Room in Room (Win)",
-                "desks": "20-29",
-                "area_range": "826-1363",
-                "viewing_text": "City View",
-                "monthly_rental_1": 127500,
+                "monthly_rental_1": 74100,
                 "monthly_rental_2": 160000,
                 "images": []
             },
             {
                 "type_text": "Standard Room (Win)",
-                "desks": "12-19",
-                "area_range": 504,
+                "desks": "9-12",
+                "area_range": "367-400",
                 "viewing_text": "City View",
-                "monthly_rental_1": 53000,
+                "monthly_rental_1": 57000,
                 "monthly_rental_2": 120000,
+                "images": []
+            },
+            {
+                "type_text": "Standard Room (Win)",
+                "desks": "7-8",
+                "area_range": "285-290",
+                "viewing_text": "City View",
+                "monthly_rental_1": 39900,
+                "monthly_rental_2": 80000,
+                "images": []
+            },
+            {
+                "type_text": "Standard Room (Win)",
+                "desks": "3-6",
+                "area_range": "183-265",
+                "viewing_text": "City View",
+                "monthly_rental_1": 17100,
+                "monthly_rental_2": 60000,
+                "images": []
+            },
+            {
+                "type_text": "Standard Room (Int)",
+                "desks": "4-6",
+                "area_range": "105-240",
+                "viewing_text": "No Window",
+                "monthly_rental_1": 20400,
+                "monthly_rental_2": 55000,
                 "images": [
-                    "lkzcjgfuudupnrdlzvcu.webp",
-                    "srlqtkzhmlxcdvztsbih.webp",
-                    "yqlngobsmoozrzbntvav.webp",
-                    "xsmvyetjiuxggmmjgkyo.webp",
-                    "cwpmjkpufzrhipxkwjld.webp"
+                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/jrniswixddcjiqtohmdb.webp",
+                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/lzblrzgjlavhnfxyhker.webp",
+                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/kxoxfliewcrntnsoyqzd.webp"
                 ]
             },
             {
-                "type_text": "Room in Room (Win)",
-                "desks": "9-11",
-                "area_range": 495,
-                "viewing_text": "City View",
-                "monthly_rental_1": 70000,
-                "monthly_rental_2": 71000,
+                "type_text": "Standard Room (Int)",
+                "desks": "2-3",
+                "area_range": "65-160",
+                "viewing_text": "No Window",
+                "monthly_rental_1": 10200,
+                "monthly_rental_2": 27000,
                 "images": []
             },
             {
                 "type_text": "Room in Room (Win)",
-                "desks": "5-8",
-                "area_range": "350-407",
+                "desks": "40-65",
+                "area_range": 2181,
                 "viewing_text": "City View",
-                "monthly_rental_1": 56000,
-                "monthly_rental_2": 58000,
+                "monthly_rental_1": 290073,
+                "monthly_rental_2": 348088,
+                "images": []
+            },
+            {
+                "type_text": "Room in Room (Win)",
+                "desks": "31-39",
+                "area_range": "948-1363",
+                "viewing_text": "City View",
+                "monthly_rental_1": 128000,
+                "monthly_rental_2": 217535,
                 "images": [
-                    "hrhidbrviviibnslrdul.webp",
-                    "qclwninrlzltsibzdxhg.webp"
+                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/hpwtowlxneqteblpcsqw.webp",
+                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/zbxuqryrkrfhtpsrqrak.webp"
                 ]
             },
             {
                 "type_text": "Room in Room (Win)",
-                "desks": "3-4",
-                "area_range": "221-290",
+                "desks": "22-30",
+                "area_range": "781-1023",
                 "viewing_text": "City View",
-                "monthly_rental_1": 35000,
-                "monthly_rental_2": 41000,
-                "images": [
-                    "editqbgytbcfqgwyleua.webp",
-                    "jogznwcxihcmskrfxpsr.webp",
-                    "ypnyqtodbsvjauvpcsoq.webp"
-                ]
-            }
-        ],
-        "co_working_space_info": [
-            {
-                "area": "31537",
-                "capacity": "394",
-                "branch_counts": 13,
-                "name": "Compass Offices",
-                "intl_suite_rate1": "4000.00",
-                "intl_suite_rate2": "6500.00",
-                "wnd_suite_rate1": null,
-                "wnd_suite_rate2": null,
-                "float_rate_full": "2380.00",
-                "fixed_rate_full": "4000.00"
+                "monthly_rental_1": 103873,
+                "monthly_rental_2": 163271,
+                "images": []
             }
         ],
         "building_info": [
             {
                 "building_type_text": "Office",
-                "age": "40",
-                "grade": "A",
-                "last_updated": "2023-09-13 07:55:51",
-                "building_ownership": "Stratified",
+                "age": "26",
+                "grade": "A++",
+                "last_updated": "2023-09-13 07:51:34",
+                "building_ownership": "Single Landlord",
                 "has_carparking": true,
                 "carparking": {
-                    "has_monthly": 0,
-                    "monthly_float_fee": "",
-                    "monthly_fixed_fee": "",
+                    "has_monthly": 1,
+                    "monthly_float_fee": "$4850",
+                    "monthly_fixed_fee": "$5200",
                     "has_hourly": 1,
-                    "hourly_fee": "",
+                    "hourly_fee": "32",
                     "has_daily": 0,
                     "daily_fee": "",
                     "is_public": "1",
-                    "has_ev_charging": "0",
+                    "has_ev_charging": "1",
                     "ev_charging_no": "0",
                     "has_dropoff": "1",
-                    "has_loading": "1",
+                    "has_loading": "0",
                     "has_car_lift": "0",
                     "mgt_co": ""
                 },
-                "year": "1983",
-                "highest_floor": "16",
-                "comment_auto": "Silvercord Tower 2 is a 17-storey grade A Commercial Building situated in 30 Canton Road just 5-mins walk from East Tsim Sha Tsui MTR station (Exit L5).  There is a retail podium beneath.  Grade A buildings like *[World Commerce Centre](https://www.leasinghub.com/building/world-commerce-centre/2288 \"World Commerce Centre - office Leasing\")*, *[Wharf T&T Centre](https://www.leasinghub.com/building/wharf-t-t-centre/2287 \"Wharf T&T Centre - office Leasing\")* and *[Lippo Sun Plaza](https://www.leasinghub.com/building/lippo-sun-plaza/2297 \"Lippo Sun Plaza - office Leasing\")* are in its close vicinity. \n\nIts total GFA is approximately 296,000 sq.ft. with 13 office floors (4-16/F), 5 retail floors (B - 3/F) and 2 hotel floors (LG1 - LG2/F).  It has 8 passenger lifts and 1 cargo lift.\n\nSilvercord Tower 2 is a strata-titled Commercial Building with offices of 1071 - 4419 sq.ft. on gross  available for sale, and for rent at around HK$32 - 45.45 per sq.ft.. **[Click Here](https://www.leasinghub.com/office/rent/building/silvercord-tower-2-2299 \"Silvercord Tower 2 - Full Stock Listing\")** for full stock listing in this building.\n\nFlex and serviced office solution is available from Compass Offices operating in this building. **[Click Here](https://www.leasinghub.com/cowork/silvercord-tower-2/compass-offices-71 \"Coworking Space in Silvercord Tower 2 by Compass Offices\")** for rates and promotional packages.",
-                "floor_system_text": "Bare Cement",
+                "year": "1997",
+                "highest_floor": "50",
+                "comment_auto": "Lee Garden One (Former name: Manulife Plaza) is a 39-storey triple A skyscraper and landmark, the tenth tallest commercial building in Hong Kong reaching 240m,  situated in 33 Hysan Avenue just 5-mins walk from Causeway Bay MTR station (Exit F1).  There is a retail podium beneath.  Grade A buildings like *[China Taiping Tower 2](https://www.leasinghub.com/building/china-taiping-tower-2/3952 \"China Taiping Tower 2 - office Leasing\")*, *[Biz Aura](https://www.leasinghub.com/building/biz-aura/3411 \"Biz Aura - office Leasing\")* and *[Leighton Centre](https://www.leasinghub.com/building/leighton-centre/1076 \"Leighton Centre - office Leasing\")* are in its close vicinity. \n\nIts total GFA is approximately 903,000 sq.ft..  It has 22 passenger lifts and 2 cargo lifts.  To comply with the sustainable green practices in improving energy efficiency and environmental management, Lee Garden One has achieved BEAM Plus EB V1.2 - Final Platinum rating.\n\nLee Garden One is a single ownership Commercial Building with offices of 2055 - 16158 sq.ft. on lettable  available for rent at around HK$66 - 76 per sq.ft..   Occupiers are mostly from Insurance, Innovation & Technology, Asset Management, Securities and Co-working. **[Click Here](https://www.leasinghub.com/office/rent/building/lee-garden-one-6342 \"Lee Garden One - Full Stock Listing\")** for full stock listing in this building.\n\nFlex and serviced office solution is available from Compass Offices operating in this building. **[Click Here](https://www.leasinghub.com/cowork/lee-garden-one/compass-offices-68 \"Coworking Space in Lee Garden One by Compass Offices\")** for rates and promotional packages.",
+                "floor_system_text": "Underfloor trunking",
                 "lifts": {
-                    "cargo": 1,
+                    "cargo": 2,
                     "service": 0,
-                    "passenger": 8
+                    "passenger": 22
                 },
                 "ac_systems": {
-                    "ac_type": "1",
-                    "ac_weekday_open": "08:30",
-                    "ac_weekday_close": "18:30",
-                    "ac_sat_open": "08:30",
-                    "ac_sat_close": "18:30",
+                    "ac_type": "2",
+                    "ac_weekday_open": "08:00",
+                    "ac_weekday_close": "19:00",
+                    "ac_sat_open": "08:00",
+                    "ac_sat_close": "13:30",
                     "ac_sun_open": null,
                     "ac_sun_close": null,
                     "ac_extra": null,
                     "ac_server": null,
                     "ac_server_fee": null
                 },
-                "ac_type_text": "Central A/C (Fancoils)",
-                "ceil_false": "2.30",
+                "ac_type_text": "Central A/C (V.A.V.)",
+                "ceil_false": "2.50",
                 "mtrs_nearby": [
                     {
-                        "name": "East Tsim Sha Tsui",
-                        "name_locale": "East Tsim Sha Tsui",
+                        "name": "Causeway Bay",
+                        "name_locale": "Causeway Bay",
                         "distance": "5-mins",
-                        "station_exit": "L5"
-                    },
-                    {
-                        "name": "Tsim Sha Tsui",
-                        "name_locale": "Tsim Sha Tsui",
-                        "distance": "5-mins",
-                        "station_exit": "A1"
+                        "station_exit": "F1"
                     }
                 ],
                 "floor_plan": [
-                    "qvykyndqlyrsgddiwsrk.webp",
-                    "nbafcuidvfzmcuxvojcb.webp",
-                    "uvazbowmuwjicplzxkft.webp"
+                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/bixutfferbmhqqotzhux.webp",
+                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/artedotxvkznxjmtarws.webp",
+                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/xlnhcebyaiqcgwkvvbba.webp",
+                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/fmogkyvomqvknrdisizy.webp"
                 ],
                 "images": [
-                    "jxutozfupbpagkobyzon.webp",
-                    "qmgpviyqzqjybzlvbiix.webp",
-                    "kkoyxbtecvvpkdnavngs.webp",
-                    "apbdlpaccmcnxwhsughq.webp",
-                    "askouupefdhxtdcifsqc.webp",
-                    "hhissodikwcarfafsfwf.webp",
-                    "zzvjxfytkrnkeeivfqin.webp",
-                    "mtstrlvepturggxwncvc.webp",
-                    "wdrijuljszftsamrrgic.webp",
-                    "jxzgokmnknksuzadyjjv.webp",
-                    "uzseeqihnkwsuamdjahw.webp"
+                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/txrntpjhrzggvjqystuv.webp",
+                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/mxzqcbojfuegbzcbyqyi.webp",
+                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/ebuinlmwwyzezyfcadni.webp",
+                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/ugwzvxgofstitdoozquk.webp",
+                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/xsmtgmnzopzlcnsqqaqh.webp",
+                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/gjjzgomubawimwdnpouv.webp",
+                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/trhbadqbyvwmfupcnmfa.webp",
+                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/mksnvnqidhboohnwjnft.webp",
+                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/kahfrfuojrijwogalyms.webp",
+                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/lpfytfikysedmexlsvfi.webp",
+                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/vdqjponxsxfsfgjxucwy.webp",
+                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/jpytqxaeckaujhoxihxm.webp",
+                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/spcdecgklmtvcxvgswym.webp",
+                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/ikhphvwrccgsgfdxbdqk.webp",
+                    "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/sivlpeaznxpuwykdxtlw.webp"
                 ]
             }
         ]

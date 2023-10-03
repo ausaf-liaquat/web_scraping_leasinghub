@@ -6,7 +6,7 @@ import string
 import boto3
 from requests.structures import CaseInsensitiveDict
 
-limit = 2
+limit = 1
 
 AWS_ACCESS_KEY_ID = ""
 AWS_SECRET_ACCESS_KEY = ""
@@ -116,7 +116,7 @@ def read_image(url):
 
 
 base_url = "https://www.leasinghub.com"
-
+img_url  = "https://sharedoffices.s3.ap-southeast-1.amazonaws.com/"
 
 def loadLeasinghub():
     api_url = f"{base_url}/office/coworking?task=servicedoffices.fetch&format=json&with_images=1&limit={limit}&limitstart=0&filter_order=default&filter_order_Dir=DESC&usage=&alias=&keyword=&with_sponsors=1"
@@ -162,7 +162,7 @@ def loadLeasinghub():
                                     data, typeI = read_image(img.get("lq_url", ""))
                                     if data != "":
                                         up = upload_to_aws(data, typeI)
-                                        listing_lq_urls.append(up)
+                                        listing_lq_urls.append(img_url+up)
                                 except Exception as err:
                                     print("error=====", err)
                 else:
@@ -187,45 +187,41 @@ def loadLeasinghub():
                                 "utilities_text", ""
                             ),
                             "images": listing_lq_urls,
+                            "area": response_data.get("data", {}).get("area", ""),
+                            "capacity": response_data.get("data", {}).get("capacity", ""),
+                            "branch_counts": response_data.get("data", {}).get(
+                                "branch_counts", ""
+                            ),
+                            "name": response_data.get("data", {}).get("name", ""),
+                            "intl_suite_min": response_data.get("data", {}).get(
+                                "intl_suite_rate1", ""
+                            ),
+                            "intl_suite_max": response_data.get("data", {}).get(
+                                "intl_suite_rate2", ""
+                            ),
+                            "wnd_suite_rate1": response_data.get("data", {}).get(
+                                "wnd_suite_rate1", ""
+                            ),
+                            "wnd_suite_rate2": response_data.get("data", {}).get(
+                                "wnd_suite_rate2", ""
+                            ),
+                            "float_rate_full": response_data.get("data", {}).get(
+                                "float_rate_full", ""
+                            ),
+                            "fixed_rate_full": response_data.get("data", {}).get(
+                                "fixed_rate_full", ""
+                            ),
+
                         }
                     ],
                 }
                 meeting_room_info = []
                 service_room_info = []
-                co_working_space_info = []
                 building_info = []
                 print(f"============= FETCHING LISTING {n} =============")
 
-                co_working_space_info.append(
-                    {
-                        "area": response_data.get("data", {}).get("area", ""),
-                        "capacity": response_data.get("data", {}).get("capacity", ""),
-                        "branch_counts": response_data.get("data", {}).get(
-                            "branch_counts", ""
-                        ),
-                        "name": response_data.get("data", {}).get("name", ""),
-                        "intl_suite_rate1": response_data.get("data", {}).get(
-                            "intl_suite_rate1", ""
-                        ),
-                        "intl_suite_rate2": response_data.get("data", {}).get(
-                            "intl_suite_rate2", ""
-                        ),
-                        "wnd_suite_rate1": response_data.get("data", {}).get(
-                            "wnd_suite_rate1", ""
-                        ),
-                        "wnd_suite_rate2": response_data.get("data", {}).get(
-                            "wnd_suite_rate2", ""
-                        ),
-                        "float_rate_full": response_data.get("data", {}).get(
-                            "float_rate_full", ""
-                        ),
-                        "fixed_rate_full": response_data.get("data", {}).get(
-                            "fixed_rate_full", ""
-                        ),
-                    }
-                )
-
-                print(f"============= FETCHING CO WORKING SPACE INFO =============")
+                
+            
 
                 building_info_get = response_data.get("data", {}).get("building", {})
                 if aws_upload:
@@ -238,7 +234,7 @@ def loadLeasinghub():
                                     data, typeI = read_image(img.get("lq_url", ""))
                                     if data != "":
                                         up = upload_to_aws(data, typeI)
-                                        floor_plan_lq_urls.append(up)
+                                        floor_plan_lq_urls.append(img_url+up)
                                 except Exception as err:
                                     print("error=====", err)
                 else:
@@ -256,7 +252,7 @@ def loadLeasinghub():
                                     data, typeI = read_image(img.get("lq_url", ""))
                                     if data != "":
                                         up = upload_to_aws(data, typeI)
-                                        building_lq_urls.append(up)
+                                        building_lq_urls.append(img_url+up)
                                 except Exception as err:
                                     print("error=====", err)
                 else:
@@ -300,7 +296,7 @@ def loadLeasinghub():
                                         data, typeI = read_image(img.get("lq_url", ""))
                                         if data != "":
                                             up = upload_to_aws(data, typeI)
-                                            meeting_room_lq_urls.append(up)
+                                            meeting_room_lq_urls.append(img_url+up)
                                     except Exception as err:
                                         print("error=====", err)
                     else:
@@ -335,7 +331,7 @@ def loadLeasinghub():
                                         data, typeI = read_image(img.get("lq_url", ""))
                                         if data != "":
                                             up = upload_to_aws(data, typeI)
-                                            service_room_lq_urls.append(up)
+                                            service_room_lq_urls.append(img_url+up)
                                     except Exception as err:
                                         print("error=====", err)
                     else:
@@ -361,7 +357,7 @@ def loadLeasinghub():
 
                 listing_info["meeting_rooms"] = meeting_room_info
                 listing_info["service_rooms"] = service_room_info
-                listing_info["co_working_space_info"] = co_working_space_info
+                
                 listing_info["building_info"] = building_info
 
                 all_info.append(listing_info)
