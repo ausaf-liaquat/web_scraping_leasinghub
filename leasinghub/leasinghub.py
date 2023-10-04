@@ -8,9 +8,9 @@ from requests.structures import CaseInsensitiveDict
 
 limit = 1
 
-AWS_ACCESS_KEY_ID = ""
-AWS_SECRET_ACCESS_KEY = ""
-AWS_PUBLIC_BUCKET_NAME = ""
+AWS_ACCESS_KEY_ID = "AKIAQAWRFUIND2BOTDV7"
+AWS_SECRET_ACCESS_KEY = "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"
+AWS_PUBLIC_BUCKET_NAME = "sharedoffices"
 aws_upload = False
 
 
@@ -319,25 +319,19 @@ def loadLeasinghub():
                         "typfloor_area_text": building_info_get.get("typfloor_area_text", ""),
                         "specs_text": building_info_get.get("specs_text", ""),
                         "ac_systems": building_info_get.get("ac_systems", ""),
+                        "has_lifts": building_info_get.get("has_lifts", ""),
                         "ac_type_text": building_info_get.get("ac_type_text", ""),
                         "ceil_false": building_info_get.get("ceil_false", ""),
                         "mtrs_nearby": building_info_get.get("mtrs_nearby", ""),
                         "floor_plan": floor_plan_lq_urls,
                         "images": building_lq_urls,
                         "building_type_text": building_info_get.get("building_type_text", ""),
-                        "map_params":{
-                            "center":{
-                                "map_lat":building_info_get.get("map_params", {}).get("center", {}).get("lat", ""),
-                                "map_lng":building_info_get.get("map_params", {}).get("center", {}).get("lng", "")
-                            },
-                            "map_zoom":building_info_get.get("map_params", {}).get("zoom", ""),
-                            "makers":{
-                                "position":{
-                                    "map_marker_position_lat": building_info_get.get("map_params", {}).get("markers", [])[0].get("position", {}).get("lat", ""),
-                                    "map_marker_position_lng": building_info_get.get("map_params", {}).get("markers", [])[0].get("position", {}).get("lng", ""),
-                                }
-                            }
-                        }
+                        "map_lat":building_info_get.get("map_params", {}).get("center", {}).get("lat", ""),
+                        "map_lng":building_info_get.get("map_params", {}).get("center", {}).get("lng", ""),
+                        "map_zoom":building_info_get.get("map_params", {}).get("zoom", ""),
+                        "map_marker_position_lat": building_info_get.get("map_params", {}).get("markers", [])[0].get("position", {}).get("lat", ""),
+                        "map_marker_position_lng": building_info_get.get("map_params", {}).get("markers", [])[0].get("position", {}).get("lng", ""),
+                       
                     }
                 )
 

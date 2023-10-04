@@ -1,279 +1,366 @@
 [
     {
-        "building_name": "Lee Garden One 利園一期",
+        "building_name": "Silvercord Tower 2 新港中心第二座",
         "detail": [
             {
-                "description": "This Business Centre situated in Causeway Bay is the beginning of your new journey and is surrounded by top-notch retail and dining destinations. The modern high-rise building has allocated four floors to this provider, which includes stunning lounges, well-equipped conference rooms, and stylish private offices. Transportation is easy with Causeway Bay Station's metro and several nearby bus stops. This workspace at Lee Garden One will make a significant mark in the city's skyline and help you to flourish and succeed.",
-                "operator_desc_locale": "WeWork is a global network of workspaces where companies grow together. At this convenient address, discover floors of co-working and private offices that cater to needs you didn't even know you had. Our spaces are designed to promote productivity whether you're a team of one or 100, and month-to-month flexibility means your space is just as agile as you are. Plus, one all-inclusive rate makes things easy. Any workspace can have a lounge, but ours are decorated with custom murals. Your old office might have had a coffee pot, but ours has a micro-roasted coffee bar and fresh fruit water. We've considered every detail so you can focus on your business. Beyond desks, staff and amenities, find a community of forward-thinking companies and in-house events that connect you organically. For more information, please email us at <a href=\"mailto:enquiryww@wework.hk\">enquiryww@wework.hk</a>",
-                "name_locale": "WeWork",
-                "street_name": "33 Hysan Avenue",
-                "area_name": "Causeway Bay",
-                "utilities_text": "Conference Rooms, Furnitured, Micro-roasted Coffee, Nursery Room, Onsite Staff, 24 hours access",
+                "description": "Occupying 3 floors at Silvercord Tower 2 overlooks the Kowloon Park next door, this business centre provides a highly efficient working environment with an abundance of natural light, accessible 24 hours a day with spaces range in size from one workstation, up to more than 50 workstations. Given the comprehensive support by I.T. professionals and client service executives, it provides a cost effective platform to help run any business.",
+                "operator_desc_locale": "Began in 2009, Compass Offices was built around the vision aims to help clients to grow their businesses and provide an environment can be considered a great place to work. Their story begins with frustration clients felt when found a few other operators who hid their pricing and provided inconsistent service. Since then, over 40 centres located in 9 cities serving over 20,000 customers. Clientele includes growing start-ups, entrepreneurs, independent professionals, MNCs and enterprise teams.\r\nBesides workspaces Compass dedicated to provide, here comes professional services as well which enable clients to focus on their own business. Combines affordability, scalability, technology and choice; all within a portfolio of flexible workspaces designed to meet today's new ways of working. For more information, please email us at~\r\nHong Kong: <a href=\"mailto:hkoaenquiry@compassoffices.com\">hkoaenquiry@compassoffices.com</a>\r\nSingapore: <a href=\"mailto:sgoaenquiry@compassoffices.com\">sgoaenquiry@compassoffices.com</a>\r\nAustralia: <a href=\"mailto:auoaenquiry@compassoffices.com\">auoaenquiry@compassoffices.com</a>\r\nJapan: <a href=\"mailto:jpoaenquiry@compassoffices.com\">jpoaenquiry@compassoffices.com</a>\r\nChina: <a href=\"mailto:cnoaenquiry@compassoffices.com\">cnoaenquiry@compassoffices.com</a>\r\nVietnam: <a href=\"mailto:vnoaenquiry@compassoffices.com\">vnoaenquiry@compassoffices.com</a>\r\nPhilippines: <a href=\"mailto:mktoaenquiry@compassoffices.com\">mktoaenquiry@compassoffices.com</a>",
+                "name_locale": "Compass Offices",
+                "street_name": "30 Canton Road",
+                "area_name": "Tsimshatsui",
+                "utilities_text": "Conference Rooms, Furnitured, Micro-roasted Coffee, Onsite Staff, Server Rental, 24 hours access",
                 "images": [
-                    "https://asset.leasinghub.com/images/centers/250/lq_Win Large_1.webp",
-                    "https://asset.leasinghub.com/images/centers/250/lq_RiR 32pax_48-101_1.webp",
-                    "https://asset.leasinghub.com/images/centers/250/lq_RiR 32pax_48-101_2.webp",
-                    "https://asset.leasinghub.com/images/centers/250/lq_Int 4pax_rm48-109.webp",
-                    "https://asset.leasinghub.com/images/centers/250/lq_Int 4pax_rm47-115_2.webp",
-                    "https://asset.leasinghub.com/images/centers/250/lq_Int 4pax_rm47-115.webp",
-                    "https://asset.leasinghub.com/images/centers/250/lq_co-work_1.webp",
-                    "https://asset.leasinghub.com/images/centers/250/lq_Event Space.webp",
-                    "https://asset.leasinghub.com/images/centers/250/lq_boardroom_12pax.webp",
-                    "https://asset.leasinghub.com/images/centers/250/lq_pantry_1.webp",
-                    "https://asset.leasinghub.com/images/centers/250/lq_lounge_1.webp",
-                    "https://asset.leasinghub.com/images/centers/250/lq_lounge_2.webp",
-                    "https://asset.leasinghub.com/images/centers/250/lq_lounge_3.webp",
-                    "https://asset.leasinghub.com/images/centers/250/lq_lounge_4.webp",
-                    "https://asset.leasinghub.com/images/centers/250/lq_reception_1.webp"
+                    "https://asset.leasinghub.com/images/centers/71/lq_win 4pax_rm518.webp",
+                    "https://asset.leasinghub.com/images/centers/71/lq_Win 5pax_rm1706_2.webp",
+                    "https://asset.leasinghub.com/images/centers/71/lq_Win 4pax.webp",
+                    "https://asset.leasinghub.com/images/centers/71/lq_co-work_5f_1.webp",
+                    "https://asset.leasinghub.com/images/centers/71/lq_co-work_5f_2.webp",
+                    "https://asset.leasinghub.com/images/centers/71/lq_Win 14pax_rm503_3.webp",
+                    "https://asset.leasinghub.com/images/centers/71/lq_Win 12pax_rm1708_1.webp",
+                    "https://asset.leasinghub.com/images/centers/71/lq_Win 12pax_rm1708_2.webp",
+                    "https://asset.leasinghub.com/images/centers/71/lq_Win 4-5pax_rm1717.webp",
+                    "https://asset.leasinghub.com/images/centers/71/lq_rir_1.webp",
+                    "https://asset.leasinghub.com/images/centers/71/lq_rir_2.webp",
+                    "https://asset.leasinghub.com/images/centers/71/lq_win 3pax_1.webp",
+                    "https://asset.leasinghub.com/images/centers/71/lq_win 5pax_rm1706_1.webp",
+                    "https://asset.leasinghub.com/images/centers/71/lq_win 5pax_rm1706_2.webp",
+                    "https://asset.leasinghub.com/images/centers/71/lq_Win 8pax_rm1732_1.webp",
+                    "https://asset.leasinghub.com/images/centers/71/lq_Win 8pax_rm1732_4.webp",
+                    "https://asset.leasinghub.com/images/centers/71/lq_Win 8pax_rm1732_2.webp",
+                    "https://asset.leasinghub.com/images/centers/71/lq_Win 8pax_rm1732_3.webp",
+                    "https://asset.leasinghub.com/images/centers/71/lq_RiR 13pax_rm1726_1.webp",
+                    "https://asset.leasinghub.com/images/centers/71/lq_RiR 13pax_rm1726_2.webp",
+                    "https://asset.leasinghub.com/images/centers/71/lq_RiR 13pax_rm1726_3.webp",
+                    "https://asset.leasinghub.com/images/centers/71/lq_Win 4pax_rm521.webp",
+                    "https://asset.leasinghub.com/images/centers/71/lq_int 4pax_1.webp",
+                    "https://asset.leasinghub.com/images/centers/71/lq_Int 4-5pax_rm1709_1.webp",
+                    "https://asset.leasinghub.com/images/centers/71/lq_Int 4-5pax_rm1709_2.webp",
+                    "https://asset.leasinghub.com/images/centers/71/lq_Int 4-5pax_rm1709_3.webp",
+                    "https://asset.leasinghub.com/images/centers/71/lq_Int 2pax_rm1787_1.webp",
+                    "https://asset.leasinghub.com/images/centers/71/lq_Int 2pax_rm1787_2.webp",
+                    "https://asset.leasinghub.com/images/centers/71/lq_Co-work.webp",
+                    "https://asset.leasinghub.com/images/centers/71/lq_boardroom_1.webp",
+                    "https://asset.leasinghub.com/images/centers/71/lq_boardroom_2.webp",
+                    "https://asset.leasinghub.com/images/centers/71/lq_boardroom_3.webp",
+                    "https://asset.leasinghub.com/images/centers/71/lq_meeting rm_4pax.webp",
+                    "https://asset.leasinghub.com/images/centers/71/lq_meeting rm_8pax_5f.webp",
+                    "https://asset.leasinghub.com/images/centers/71/lq_pantry_1.webp",
+                    "https://asset.leasinghub.com/images/centers/71/lq_pantry_2.webp",
+                    "https://asset.leasinghub.com/images/centers/71/lq_pantry_3.webp",
+                    "https://asset.leasinghub.com/images/centers/71/lq_pantry_4.webp",
+                    "https://asset.leasinghub.com/images/centers/71/lq_lounge_1.webp",
+                    "https://asset.leasinghub.com/images/centers/71/lq_Lounge_5F_1.webp",
+                    "https://asset.leasinghub.com/images/centers/71/lq_lounge_5f_1.webp",
+                    "https://asset.leasinghub.com/images/centers/71/lq_Lounge_5F_3.webp",
+                    "https://asset.leasinghub.com/images/centers/71/lq_reception_1.webp",
+                    "https://asset.leasinghub.com/images/centers/71/lq_reception_2.webp",
+                    "https://asset.leasinghub.com/images/centers/71/lq_reception_3.webp",
+                    "https://asset.leasinghub.com/images/centers/71/lq_centre entrance_17f.webp"
                 ],
-                "area": "65660",
-                "capacity": "820",
-                "branch_counts": 6,
-                "name": "WeWork",
-                "intl_suite_min": "3800.00",
-                "intl_suite_max": "10000.00",
+                "area": "31537",
+                "capacity": "394",
+                "branch_counts": 13,
+                "name": "Compass Offices",
+                "intl_suite_min": "4000.00",
+                "intl_suite_max": "6500.00",
                 "wnd_suite_rate1": null,
                 "wnd_suite_rate2": null,
-                "float_rate_full": "3800.00",
+                "float_rate_full": "2380.00",
                 "float_rate_half": null,
-                "fixed_rate_full": "6200.00",
+                "fixed_rate_full": "4000.00",
                 "fixed_rate_half": null,
                 "fixed_rate_full_day_access": "1",
-                "floor_pos": "3",
+                "floor_pos": "2",
                 "full_day_access": "1",
                 "full_day_aircon": "0",
-                "float_rate_full_day_access": "1",
+                "float_rate_full_day_access": "0",
                 "virtual_rate1": null,
                 "virtual_rate2": null,
-                "intlwnd_rate_from": "3800.00",
-                "intlwnd_rate_to": "10000.00",
-                "gross_area": "65660",
+                "intlwnd_rate_from": "4000.00",
+                "intlwnd_rate_to": "6500.00",
+                "gross_area": "31537",
                 "net_area": "0",
                 "suite_counts": {
-                    "suites": 10,
-                    "rooms": 2,
-                    "virtual": 0
+                    "suites": 12,
+                    "rooms": 3,
+                    "virtual": 5
                 }
             }
         ],
         "meeting_rooms": [
             {
                 "type_text": "Meeting Rm",
+                "seat_count": 8,
+                "area": null,
+                "viewing_text": "No Window",
+                "hourly_rate": 570,
+                "full_day_rate": 3420,
+                "remark": null,
+                "images": [
+                    "https://asset.leasinghub.com/images/centerrooms/141/lq_Meeting Rm_8pax_5F.webp"
+                ]
+            },
+            {
+                "type_text": "Meeting Rm",
                 "seat_count": 4,
                 "area": null,
                 "viewing_text": "No Window",
-                "hourly_rate": null,
-                "full_day_rate": null,
+                "hourly_rate": 390,
+                "full_day_rate": 2340,
                 "remark": null,
-                "images": []
+                "images": [
+                    "https://asset.leasinghub.com/images/centerrooms/140/lq_Meeting Rm_4pax.webp"
+                ]
             },
             {
                 "type_text": "Boardroom",
                 "seat_count": 12,
                 "area": null,
-                "viewing_text": "City View",
-                "hourly_rate": null,
-                "full_day_rate": null,
+                "viewing_text": "No Window",
+                "hourly_rate": 910,
+                "full_day_rate": 5460,
                 "remark": null,
                 "images": [
-                    "https://asset.leasinghub.com/images/centerrooms/507/lq_Boardroom_12pax.webp"
+                    "https://asset.leasinghub.com/images/centerrooms/139/lq_Boardroom_1.webp",
+                    "https://asset.leasinghub.com/images/centerrooms/139/lq_Boardroom_2.webp",
+                    "https://asset.leasinghub.com/images/centerrooms/139/lq_Boardroom_3.webp"
                 ]
             }
         ],
         "service_rooms": [
             {
                 "type_text": "Standard Room (Win)",
-                "desks": "17-21",
-                "area_range": "700-710",
+                "desks": "5-7",
+                "area_range": "200-333",
                 "viewing_text": "City View",
-                "monthly_rental_1": 102600,
-                "monthly_rental_2": 210000,
+                "monthly_rental_1": 27000,
+                "monthly_rental_2": 47000,
                 "images": [
-                    "https://asset.leasinghub.com/images/centersuites/8724/lq_Win Large_1.webp"
+                    "https://asset.leasinghub.com/images/centersuites/2754/lq_Win 4-5pax_rm1717.webp"
                 ]
             },
             {
                 "type_text": "Standard Room (Win)",
-                "desks": "13-16",
-                "area_range": "500-682",
+                "desks": "5-8",
+                "area_range": "280-319",
+                "viewing_text": "Garden View",
+                "monthly_rental_1": 40000,
+                "monthly_rental_2": 43000,
+                "images": [
+                    "https://asset.leasinghub.com/images/centersuites/2753/lq_Win 5pax_rm1706_2.webp",
+                    "https://asset.leasinghub.com/images/centersuites/2753/lq_Win 5pax_rm1706_1.webp",
+                    "https://asset.leasinghub.com/images/centersuites/2753/lq_Win 5pax_rm1706_2.webp",
+                    "https://asset.leasinghub.com/images/centersuites/2753/lq_Win 8pax_rm1732_1.webp",
+                    "https://asset.leasinghub.com/images/centersuites/2753/lq_Win 8pax_rm1732_4.webp",
+                    "https://asset.leasinghub.com/images/centersuites/2753/lq_Win 8pax_rm1732_2.webp",
+                    "https://asset.leasinghub.com/images/centersuites/2753/lq_Win 8pax_rm1732_3.webp"
+                ]
+            },
+            {
+                "type_text": "Standard Room (Win)",
+                "desks": "2-4",
+                "area_range": "130-240",
+                "viewing_text": "Garden View",
+                "monthly_rental_1": 13000,
+                "monthly_rental_2": 32000,
+                "images": [
+                    "https://asset.leasinghub.com/images/centersuites/2752/lq_Win 4pax_rm518.webp",
+                    "https://asset.leasinghub.com/images/centersuites/2752/lq_Win 3pax_1.webp",
+                    "https://asset.leasinghub.com/images/centersuites/2752/lq_Win 4pax.webp"
+                ]
+            },
+            {
+                "type_text": "Standard Room (Win)",
+                "desks": "2-4",
+                "area_range": "90-235",
                 "viewing_text": "City View",
-                "monthly_rental_1": 74100,
+                "monthly_rental_1": 13900,
+                "monthly_rental_2": 33000,
+                "images": [
+                    "https://asset.leasinghub.com/images/centersuites/2751/lq_Win 4pax_rm521.webp"
+                ]
+            },
+            {
+                "type_text": "Standard Room (Int)",
+                "desks": "3-5",
+                "area_range": "121-220",
+                "viewing_text": "No Window",
+                "monthly_rental_1": 13000,
+                "monthly_rental_2": 23000,
+                "images": [
+                    "https://asset.leasinghub.com/images/centersuites/2750/lq_Int 4pax_1.webp",
+                    "https://asset.leasinghub.com/images/centersuites/2750/lq_Int 4-5pax_rm1709_1.webp",
+                    "https://asset.leasinghub.com/images/centersuites/2750/lq_Int 4-5pax_rm1709_2.webp",
+                    "https://asset.leasinghub.com/images/centersuites/2750/lq_Int 4-5pax_rm1709_3.webp"
+                ]
+            },
+            {
+                "type_text": "Standard Room (Int)",
+                "desks": "1-2",
+                "area_range": "46-120",
+                "viewing_text": "No Window",
+                "monthly_rental_1": 5200,
+                "monthly_rental_2": 13000,
+                "images": [
+                    "https://asset.leasinghub.com/images/centersuites/2749/lq_Int 2pax_rm1787_1.webp",
+                    "https://asset.leasinghub.com/images/centersuites/2749/lq_Int 2pax_rm1787_2.webp"
+                ]
+            },
+            {
+                "type_text": "Room in Room (Win)",
+                "desks": "60-69",
+                "area_range": 2080,
+                "viewing_text": "City View",
+                "monthly_rental_1": 250000,
+                "monthly_rental_2": 280000,
+                "images": []
+            },
+            {
+                "type_text": "Room in Room (Win)",
+                "desks": "20-29",
+                "area_range": "826-1363",
+                "viewing_text": "City View",
+                "monthly_rental_1": 127500,
                 "monthly_rental_2": 160000,
                 "images": []
             },
             {
                 "type_text": "Standard Room (Win)",
-                "desks": "9-12",
-                "area_range": "367-400",
+                "desks": "12-19",
+                "area_range": 504,
                 "viewing_text": "City View",
-                "monthly_rental_1": 57000,
+                "monthly_rental_1": 53000,
                 "monthly_rental_2": 120000,
-                "images": []
-            },
-            {
-                "type_text": "Standard Room (Win)",
-                "desks": "7-8",
-                "area_range": "285-290",
-                "viewing_text": "City View",
-                "monthly_rental_1": 39900,
-                "monthly_rental_2": 80000,
-                "images": []
-            },
-            {
-                "type_text": "Standard Room (Win)",
-                "desks": "3-6",
-                "area_range": "183-265",
-                "viewing_text": "City View",
-                "monthly_rental_1": 17100,
-                "monthly_rental_2": 60000,
-                "images": []
-            },
-            {
-                "type_text": "Standard Room (Int)",
-                "desks": "4-6",
-                "area_range": "105-240",
-                "viewing_text": "No Window",
-                "monthly_rental_1": 20400,
-                "monthly_rental_2": 55000,
                 "images": [
-                    "https://asset.leasinghub.com/images/centersuites/8719/lq_Int 4pax_rm48-109.webp",
-                    "https://asset.leasinghub.com/images/centersuites/8719/lq_Int 4pax_rm47-115_2.webp",
-                    "https://asset.leasinghub.com/images/centersuites/8719/lq_Int 4pax_rm47-115.webp"
-                ]
-            },
-            {
-                "type_text": "Standard Room (Int)",
-                "desks": "2-3",
-                "area_range": "65-160",
-                "viewing_text": "No Window",
-                "monthly_rental_1": 10200,
-                "monthly_rental_2": 27000,
-                "images": []
-            },
-            {
-                "type_text": "Room in Room (Win)",
-                "desks": "40-65",
-                "area_range": 2181,
-                "viewing_text": "City View",
-                "monthly_rental_1": 290073,
-                "monthly_rental_2": 348088,
-                "images": []
-            },
-            {
-                "type_text": "Room in Room (Win)",
-                "desks": "31-39",
-                "area_range": "948-1363",
-                "viewing_text": "City View",
-                "monthly_rental_1": 128000,
-                "monthly_rental_2": 217535,
-                "images": [
-                    "https://asset.leasinghub.com/images/centersuites/8716/lq_RiR 32pax_48-101_1.webp",
-                    "https://asset.leasinghub.com/images/centersuites/8716/lq_RiR 32pax_48-101_2.webp"
+                    "https://asset.leasinghub.com/images/centersuites/2746/lq_Win 12pax_rm1708.webp",
+                    "https://asset.leasinghub.com/images/centersuites/2746/lq_Win 12pax_rm1708_2.webp",
+                    "https://asset.leasinghub.com/images/centersuites/2746/lq_Win 14pax_rm503_1.webp",
+                    "https://asset.leasinghub.com/images/centersuites/2746/lq_Win 14pax_rm503_2.webp",
+                    "https://asset.leasinghub.com/images/centersuites/2746/lq_Win 14pax_rm503_3.webp"
                 ]
             },
             {
                 "type_text": "Room in Room (Win)",
-                "desks": "22-30",
-                "area_range": "781-1023",
+                "desks": "9-11",
+                "area_range": 495,
                 "viewing_text": "City View",
-                "monthly_rental_1": 103873,
-                "monthly_rental_2": 163271,
+                "monthly_rental_1": 70000,
+                "monthly_rental_2": 71000,
                 "images": []
+            },
+            {
+                "type_text": "Room in Room (Win)",
+                "desks": "5-8",
+                "area_range": "350-407",
+                "viewing_text": "City View",
+                "monthly_rental_1": 56000,
+                "monthly_rental_2": 58000,
+                "images": [
+                    "https://asset.leasinghub.com/images/centersuites/2744/lq_RiR_1.webp",
+                    "https://asset.leasinghub.com/images/centersuites/2744/lq_RiR_2.webp"
+                ]
+            },
+            {
+                "type_text": "Room in Room (Win)",
+                "desks": "3-4",
+                "area_range": "221-290",
+                "viewing_text": "City View",
+                "monthly_rental_1": 35000,
+                "monthly_rental_2": 41000,
+                "images": [
+                    "https://asset.leasinghub.com/images/centersuites/2743/lq_RiR 13pax_rm1726_1.webp",
+                    "https://asset.leasinghub.com/images/centersuites/2743/lq_RiR 13pax_rm1726_2.webp",
+                    "https://asset.leasinghub.com/images/centersuites/2743/lq_RiR 13pax_rm1726_3.webp"
+                ]
             }
         ],
         "building_info": [
             {
-                "age": "26",
-                "grade": "A++",
-                "last_updated": "2023-09-13 07:51:34",
-                "building_ownership": "Single Landlord",
+                "age": "40",
+                "grade": "A",
+                "last_updated": "2023-09-13 07:55:51",
+                "building_ownership": "Stratified",
                 "has_carparking": true,
                 "carparking": {
-                    "has_monthly": 1,
-                    "monthly_float_fee": "$4850",
-                    "monthly_fixed_fee": "$5200",
+                    "has_monthly": 0,
+                    "monthly_float_fee": "",
+                    "monthly_fixed_fee": "",
                     "has_hourly": 1,
-                    "hourly_fee": "32",
+                    "hourly_fee": "",
                     "has_daily": 0,
                     "daily_fee": "",
                     "is_public": "1",
-                    "has_ev_charging": "1",
+                    "has_ev_charging": "0",
                     "ev_charging_no": "0",
                     "has_dropoff": "1",
-                    "has_loading": "0",
+                    "has_loading": "1",
                     "has_car_lift": "0",
                     "mgt_co": ""
                 },
-                "year": "1997",
-                "highest_floor": "50",
-                "comment_auto": "Lee Garden One (Former name: Manulife Plaza) is a 39-storey triple A skyscraper and landmark, the tenth tallest commercial building in Hong Kong reaching 240m,  situated in 33 Hysan Avenue just 5-mins walk from Causeway Bay MTR station (Exit F1).  There is a retail podium beneath.  Grade A buildings like *[China Taiping Tower 2](https://www.leasinghub.com/building/china-taiping-tower-2/3952 \"China Taiping Tower 2 - office Leasing\")*, *[Biz Aura](https://www.leasinghub.com/building/biz-aura/3411 \"Biz Aura - office Leasing\")* and *[Leighton Centre](https://www.leasinghub.com/building/leighton-centre/1076 \"Leighton Centre - office Leasing\")* are in its close vicinity. \n\nIts total GFA is approximately 903,000 sq.ft..  It has 22 passenger lifts and 2 cargo lifts.  To comply with the sustainable green practices in improving energy efficiency and environmental management, Lee Garden One has achieved BEAM Plus EB V1.2 - Final Platinum rating.\n\nLee Garden One is a single ownership Commercial Building with offices of 2055 - 16158 sq.ft. on lettable  available for rent at around HK$66 - 76 per sq.ft..   Occupiers are mostly from Insurance, Innovation & Technology, Asset Management, Securities and Co-working. **[Click Here](https://www.leasinghub.com/office/rent/building/lee-garden-one-6342 \"Lee Garden One - Full Stock Listing\")** for full stock listing in this building.\n\nFlex and serviced office solution is available from Compass Offices operating in this building. **[Click Here](https://www.leasinghub.com/cowork/lee-garden-one/compass-offices-68 \"Coworking Space in Lee Garden One by Compass Offices\")** for rates and promotional packages.",
-                "floor_system_text": "Underfloor trunking",
+                "year": "1983",
+                "highest_floor": "16",
+                "comment_auto": "Silvercord Tower 2 is a 17-storey grade A Commercial Building situated in 30 Canton Road just 5-mins walk from East Tsim Sha Tsui MTR station (Exit L5).  There is a retail podium beneath.  Grade A buildings like *[World Commerce Centre](https://www.leasinghub.com/building/world-commerce-centre/2288 \"World Commerce Centre - office Leasing\")*, *[Wharf T&T Centre](https://www.leasinghub.com/building/wharf-t-t-centre/2287 \"Wharf T&T Centre - office Leasing\")* and *[Lippo Sun Plaza](https://www.leasinghub.com/building/lippo-sun-plaza/2297 \"Lippo Sun Plaza - office Leasing\")* are in its close vicinity. \n\nIts total GFA is approximately 296,000 sq.ft. with 13 office floors (4-16/F), 5 retail floors (B - 3/F) and 2 hotel floors (LG1 - LG2/F).  It has 8 passenger lifts and 1 cargo lift.\n\nSilvercord Tower 2 is a strata-titled Commercial Building with offices of 1071 - 4419 sq.ft. on gross  available for sale, and for rent at around HK$32 - 45.45 per sq.ft.. **[Click Here](https://www.leasinghub.com/office/rent/building/silvercord-tower-2-2299 \"Silvercord Tower 2 - Full Stock Listing\")** for full stock listing in this building.\n\nFlex and serviced office solution is available from Compass Offices operating in this building. **[Click Here](https://www.leasinghub.com/cowork/silvercord-tower-2/compass-offices-71 \"Coworking Space in Silvercord Tower 2 by Compass Offices\")** for rates and promotional packages.",
+                "floor_system_text": "Bare Cement",
                 "lifts": {
-                    "cargo": 2,
+                    "cargo": 1,
                     "service": 0,
-                    "passenger": 22
+                    "passenger": 8
                 },
-                "typfloor_area_text": "14,661 - 16,793",
-                "specs_text": "BEAM: Plus EB V1.2 - Final Platinum, HK Top 10 Highest Commercial Building: 10-240m, Commercial Podium",
+                "typfloor_area_text": "22,600",
+                "specs_text": "Commercial Podium",
                 "ac_systems": {
-                    "ac_type": "2",
-                    "ac_weekday_open": "08:00",
-                    "ac_weekday_close": "19:00",
-                    "ac_sat_open": "08:00",
-                    "ac_sat_close": "13:30",
+                    "ac_type": "1",
+                    "ac_weekday_open": "08:30",
+                    "ac_weekday_close": "18:30",
+                    "ac_sat_open": "08:30",
+                    "ac_sat_close": "18:30",
                     "ac_sun_open": null,
                     "ac_sun_close": null,
                     "ac_extra": null,
                     "ac_server": null,
                     "ac_server_fee": null
                 },
-                "ac_type_text": "Central A/C (V.A.V.)",
-                "ceil_false": "2.50",
+                "has_lifts": true,
+                "ac_type_text": "Central A/C (Fancoils)",
+                "ceil_false": "2.30",
                 "mtrs_nearby": [
                     {
-                        "name": "Causeway Bay",
-                        "name_locale": "Causeway Bay",
+                        "name": "East Tsim Sha Tsui",
+                        "name_locale": "East Tsim Sha Tsui",
                         "distance": "5-mins",
-                        "station_exit": "F1"
+                        "station_exit": "L5"
+                    },
+                    {
+                        "name": "Tsim Sha Tsui",
+                        "name_locale": "Tsim Sha Tsui",
+                        "distance": "5-mins",
+                        "station_exit": "A1"
                     }
                 ],
                 "floor_plan": [
-                    "https://asset.leasinghub.com/images/centers/250/floorplans/lq_floorplan_45f.webp",
-                    "https://asset.leasinghub.com/images/centers/250/floorplans/lq_floorplan_46f.webp",
-                    "https://asset.leasinghub.com/images/centers/250/floorplans/lq_floorplan_47f.webp",
-                    "https://asset.leasinghub.com/images/centers/250/floorplans/lq_Floorplan_48F.webp"
+                    "https://asset.leasinghub.com/images/centers/71/floorplans/lq_floorplan_17f.webp",
+                    "https://asset.leasinghub.com/images/centers/71/floorplans/lq_floorplan_11f.webp",
+                    "https://asset.leasinghub.com/images/centers/71/floorplans/lq_floorplan_5f.webp"
                 ],
                 "images": [
-                    "https://asset.leasinghub.com/images/buildings/6342/lq_IMG_2700.webp",
-                    "https://asset.leasinghub.com/images/buildings/6342/lq_IMG_1488.webp",
-                    "https://asset.leasinghub.com/images/buildings/6342/lq_IMG_1493.webp",
-                    "https://asset.leasinghub.com/images/buildings/6342/lq_IMG_1511.webp",
-                    "https://asset.leasinghub.com/images/buildings/6342/lq_Building_6.webp",
-                    "https://asset.leasinghub.com/images/buildings/6342/lq_IMG_2822.webp",
-                    "https://asset.leasinghub.com/images/buildings/6342/lq_IMG_8072.webp",
-                    "https://asset.leasinghub.com/images/buildings/6342/lq_IMG_2826.webp",
-                    "https://asset.leasinghub.com/images/buildings/6342/lq_IMG_2825.webp",
-                    "https://asset.leasinghub.com/images/buildings/6342/lq_IMG_2827.webp",
-                    "https://asset.leasinghub.com/images/buildings/6342/lq_IMG_2830.webp",
-                    "https://asset.leasinghub.com/images/buildings/6342/lq_IMG_7922.HEIC.webp",
-                    "https://asset.leasinghub.com/images/buildings/6342/lq_IMG_8043.webp",
-                    "https://asset.leasinghub.com/images/buildings/6342/lq_IMG_8052.webp",
-                    "https://asset.leasinghub.com/images/buildings/6342/lq_IMG_2823.webp"
+                    "https://asset.leasinghub.com/images/buildings/2299/lq_img_1842.webp",
+                    "https://asset.leasinghub.com/images/buildings/2299/lq_IMG_2203.webp",
+                    "https://asset.leasinghub.com/images/buildings/2299/lq_Building_7.webp",
+                    "https://asset.leasinghub.com/images/buildings/2299/lq_IMG_2014.webp",
+                    "https://asset.leasinghub.com/images/buildings/2299/lq_img_2015.webp",
+                    "https://asset.leasinghub.com/images/buildings/2299/lq_img_1839.webp",
+                    "https://asset.leasinghub.com/images/buildings/2299/lq_img_1967.webp",
+                    "https://asset.leasinghub.com/images/buildings/2299/lq_IMG_1985.webp",
+                    "https://asset.leasinghub.com/images/buildings/2299/lq_img_1972.webp",
+                    "https://asset.leasinghub.com/images/buildings/2299/lq_img_1966.webp",
+                    "https://asset.leasinghub.com/images/buildings/2299/lq_img_2013.webp"
                 ],
                 "building_type_text": "Office",
-                "map_params": {
-                    "center": {
-                        "map_lat": "22.27821600900000",
-                        "map_lng": "114.18479600600000"
-                    },
-                    "map_zoom": "18",
-                    "makers": {
-                        "position": {
-                            "map_marker_position_lat": "22.27821600900000",
-                            "map_marker_position_lng": "114.18479600600000"
-                        }
-                    }
-                }
+                "map_lat": "22.29749699600000",
+                "map_lng": "114.16937100300000",
+                "map_zoom": "18",
+                "map_marker_position_lat": "22.29749699600000",
+                "map_marker_position_lng": "114.16937100300000"
             }
         ]
     }
